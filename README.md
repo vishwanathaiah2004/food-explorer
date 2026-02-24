@@ -1,4 +1,5 @@
-# 🍽️ Food Product Explorer
+# 🍽️ Food Product Explorer.
+
 ### 📌 Overview
 
 ## Food Product Explorer is a responsive React application that allows users to explore food products using the OpenFoodFacts API.
