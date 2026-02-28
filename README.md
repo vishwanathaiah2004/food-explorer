@@ -1,4 +1,4 @@
-# 🍽️ Food Product Explorer...
+# 🍽️ Food Product Explorer..
 
 ### 📌 Overview
 
